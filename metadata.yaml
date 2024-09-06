@@ -1,0 +1,50 @@
+_repo: Mishka_74297
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kaukonen, Vilppu
+    aliases:
+    - Forsman, Filip
+    - Koskimies, Vilppu Eliel
+    - Kaukonen, Wilppu
+    birthdate: 1868
+    deathdate: 1923
+    gutenberg_agent_id: '57430'
+    url: http://www.gutenberg.org/2009/agents/57430
+    wikipedia: https://fi.wikipedia.org/wiki/Vilppu_Kaukonen
+creator:
+  author:
+    agent_name: Lenau, Nicolaus
+    aliases:
+    - Niembsch, Nicolaus Franz, edler von Strehlenau
+    - Strehlenau, Nicolaus Franz Niembsch, Edler von
+    - Von Strehlenau, Nicolaus Franz Niembsch, Edler
+    - Lenau, Nikolaus
+    - Lenau, N. (Nicolaus)
+    birthdate: 1802
+    deathdate: 1850
+    gutenberg_agent_id: '57429'
+    url: http://www.gutenberg.org/2009/agents/57429
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Nikolaus_Lenau
+    - https://fi.wikipedia.org/wiki/Nikolaus_Lenau
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74297'
+language: fi
+pgterms:marc905: 20240819011823lenau
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansa, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian poetry -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Mishka
+url: http://www.gutenberg.org/ebooks/74297
