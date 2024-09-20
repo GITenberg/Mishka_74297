@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '57430'
     url: http://www.gutenberg.org/2009/agents/57430
     wikipedia: https://fi.wikipedia.org/wiki/Vilppu_Kaukonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lenau, Nicolaus
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Nikolaus_Lenau
     - https://fi.wikipedia.org/wiki/Nikolaus_Lenau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74297#Mishka
 gutenberg_issued: '2024-08-22'
 gutenberg_type: Text
 identifiers:
